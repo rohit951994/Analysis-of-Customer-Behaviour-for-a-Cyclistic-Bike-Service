@@ -27,11 +27,11 @@ Excel and Tableau Public for Visualization .
 
 
 **Major Findings in Customers driving pattern**
-Member users ride more often than casual riders, except on weekends and during the peak of the summer.
-Member users follow predictable paths from and to the city centre, whereas Casual users ride closer to leisure areas and follow less predictable paths.
-Casual users ride on average longer than member users, but member users ride length doesn't fluctuate as much during the week.
-Some of the rides by casual members were really long close to 22 days .
-Streeter Dr & Grand Ave , DuSable Lake Shore Dr & Monroe St , Michigan Ave & Oak StMillennium Park are some of the most common stations where maximum numbers of trips started or ended for casual customers
-Classic and Electric bikes were used majorly by both Members and casual customers .Only a few casual customers used docked bike .
+- Member users ride more often than casual riders, except on weekends and during the peak of the summer.
+- Member users follow predictable paths from and to the city centre, whereas Casual users ride closer to leisure areas and follow less predictable paths.
+- Casual users ride on average longer than member users, but member users ride length doesn't fluctuate as much during the week.
+- Some of the rides by casual members were really long close to 22 days .
+- Streeter Dr & Grand Ave , DuSable Lake Shore Dr & Monroe St , Michigan Ave & Oak StMillennium Park are some of the most common stations where maximum numbers of trips started or ended for casual customers
+- Classic and Electric bikes were used majorly by both Members and casual customers .Only a few casual customers used docked bike .
 
 
