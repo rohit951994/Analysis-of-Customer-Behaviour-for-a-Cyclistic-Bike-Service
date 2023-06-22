@@ -34,4 +34,19 @@ Excel and Tableau Public for Visualization .
 - Streeter Dr & Grand Ave , DuSable Lake Shore Dr & Monroe St , Michigan Ave & Oak StMillennium Park are some of the most common stations where maximum numbers of trips started or ended for casual customers
 - Classic and Electric bikes were used majorly by both Members and casual customers .Only a few casual customers used docked bike .
 
+**Recommendation for marketing to convert casual riders to members**
+- Advertising about the membership program to customers mainly during peak hours of casual customers at the locations like Streeter Dr & Grand Ave , DuSable Lake Shore Dr & Monroe St , Michigan Ave & Oak St 
+  ,Millennium Park which are most common start and finish point of trips .
+- Launching some offers or discount on Yearly membership programs during weekends of summers . 
+- Slightly increasing the price for casual rides and making membership programs more affordable and showing the casual rider benefits of taking membership .
+
+**Scope of Further Analysis**
+- Collecting and analyzing other details of riders such as age, gender ,purpose  of ride for further understanding the customer and make more data driven decision for marketing .
+- Make it mandate to collect the starting and end location of each ride .
+- Conducting surveys to identify why docked bikes aren’t used by riders .
+
+
+
+
+
 
